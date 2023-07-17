@@ -8,6 +8,7 @@ dependencies:
   - drupal:file
   - externalauth:externalauth
 
-version: '1.0.1'
+version: '1.0.2'
 project: 'openid_connect'
-datestamp: 1689621285
+datestamp: 1689621832
+

@@ -1,6 +1,6 @@
 {
   "name": "axdl/openid_connect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "drupal-module",
   "description": "A pluggable client implementation for the OpenID Connect protocol.",
   "keywords": ["Drupal"],
