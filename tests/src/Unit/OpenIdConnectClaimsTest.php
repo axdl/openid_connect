@@ -27,10 +27,7 @@ class OpenIdConnectClaimsTest extends UnitTestCase {
   /**
    * The default userinfo_mappings array.
    */
-  const USERINFO_MAPPINGS = [
-    'timezone' => 'zoneinfo',
-    'user_picture' => 'picture',
-  ];
+  const USERINFO_MAPPINGS = [];
 
   /**
    * A mock of the config.factory service.
